@@ -1,7 +1,13 @@
-  <h1 style="text-align: center;">Welcome to my profile!</h1>
-<p align="center">
+  ## Welcome to my profile
+  
+  ![](https://i.imgur.com/waxVImv.png)
+ 
   <img src="https://raw.githubusercontent.com/HstericaL/HstericaL/main/test.png">
-  <img src="https://raw.githubusercontent.com/HstericaL/HstericaL/main/e16f1400-c520-11ea-92de-150cb280e6c8.jpg"/>
-  <!--<img src="https://pbs.twimg.com/profile_banners/1140605711774375937/1644427187/1500x500"/>-->
-  <!--<img src="https://media2.giphy.com/media/QAZzulIIFkrQeuq45l/giphy.gif"/>-->
-</p>
+
+  ![](https://i.imgur.com/waxVImv.png)
+  
+  <h3 align="center">HstericaL</h3>
+  <h6 align="center">Joshua Asuncion</h6>
+  
+  <p align="center">I work with c#, html, css, and other various language stuff.</p>
+   <p align="center">I also create/render 'ArchViz' and other 3D modelling stuff such as product mockups, model visualization and etc. using Blender 3D and SketchUp.</p>
