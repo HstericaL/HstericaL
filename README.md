@@ -10,4 +10,3 @@
   <h6 align="center">Joshua Asuncion</h6>
   
   <p align="center">I work with c#, html, css, and other various language stuff.</p>
-   <p align="center">I specialize in creating architectural visualizations (ArchViz) and other 3D models using Blender 3D and SketchUp. With a keen eye for detail, I produce visually stunning and realistic renders that exceed client expectations.</p>
